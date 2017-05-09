@@ -1,0 +1,19 @@
+body {
+  margin: 30px;
+  font-family: 'Unica One', cursive;
+  background-image: url(https://www.portlandwebworks.com/sites/default/files/angular-3.jpg);
+  text-align: center;
+
+}
+
+h1{
+  font-size: 4em;
+  background-color: #C77966;
+  border: .15em solid #703030;
+  color: white;
+  padding: 30px;
+}
+
+div.container {
+    background-color: #C77966;
+}
